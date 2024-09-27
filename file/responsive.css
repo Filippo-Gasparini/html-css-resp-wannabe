@@ -37,20 +37,22 @@
 
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  @media (max-width: 480px) {
 
- }
+    .site-header {
+    background-color: aquamarine;
+    max-width: 100%;
+    }
+
+    
+    .col, .card {
+        background-color: brown;
+        display: wrap;
+
+    }
+
+
+
+
+     
+}
