@@ -3,7 +3,7 @@
  @media (max-width: 750px) {
      
      .lessons {
-        background-color: blueviolet;
+        
         border-radius: 1px;
      }
 
@@ -49,10 +49,20 @@
         background-color: brown;
         display: wrap;
 
+
+    }
+
+    .why-us
+    .container {
+      text-align: center;
     }
 
 
 
-
+    .col > .col-right {
+        text-align: center;
+        display: flex;
+        background-color: cadetblue;
+    }
      
 }
